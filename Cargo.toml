@@ -1,0 +1,12 @@
+[package]
+name = "polarpower"
+version = "0.1.0"
+description = "Power system modeling, simulation and analysis using Polars and Powers"
+license = "BSD-3-Clause"
+repository = "https://github.com/rwl/polarpower"
+edition = "2021"
+
+[build-dependencies]
+anyhow = "1"
+csv = "1.3"
+heck = "0.4"
